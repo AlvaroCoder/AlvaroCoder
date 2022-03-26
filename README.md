@@ -1,6 +1,6 @@
 Un poco de Alva :
 - 👋 Hola soy Alvaro
-- 👀 Me gusta la programación, y trataré de compartir lo que aprendo por acá y posteriormente en mi página web :)
+- 👀 Me gusta programar en JAVA y React; trataré de compartir lo que aprendo de manera "autodidacta", por acá y posteriormente en mi página web :)
 - 🌱 Actualmente estoy estudiando Ingienería Industrial, pero aprendo programación de manera autodidacta.
 - 📫 Me puedes seguir en mis redes sociales.
 
